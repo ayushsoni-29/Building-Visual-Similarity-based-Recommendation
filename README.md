@@ -1,1 +1,1 @@
-# Handwritten_Character_Recognition
+# Building Visual Similarity based Recommendation
